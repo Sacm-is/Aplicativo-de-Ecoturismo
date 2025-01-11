@@ -16,11 +16,11 @@ Este repositório contém o código-fonte de um aplicativo simples em Java de ec
 
 **Funcionalidades:**
 
- *🔍**Exploração de Destinos e Eventos**: Descubra locais e atividades de ecoturismo em diversas regiões.
+ * 🔍**Exploração de Destinos e Eventos**: Descubra locais e atividades de ecoturismo em diversas regiões.
  
- *⭐**Avaliação de Experiências**: Avalie suas visitas e leia opiniões de outros usuários.
+ * ⭐**Avaliação de Experiências**: Avalie suas visitas e leia opiniões de outros usuários.
  
- *🌱**Conscientização Ambiental**: Participe de uma comunidade engajada em práticas sustentáveis. 
+ * 🌱**Conscientização Ambiental**: Participe de uma comunidade engajada em práticas sustentáveis. 
  
 #
 **Membros:**
