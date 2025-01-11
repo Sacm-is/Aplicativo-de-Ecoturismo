@@ -1,20 +1,25 @@
 # Aplicativo-de-Ecoturismo 🌿
-#
 
 **Descrição:**
+
 Este repositório contém o código-fonte de um aplicativo simples em Java de ecoturismo. O aplicativo será uma plataforma interativa onde os usuários poderão descobrir lugares e eventos relacionados ao ecoturismo, avaliar suas experiências e contribuir para a conscientização ambiental. Por meio da pesquisa e das avaliações dos usuários, o aplicativo criará a visitação a locais que respeitam práticas seguras, promovendo a conservação do meio ambiente e o desenvolvimento de comunidades locais. O sistema utiliza um banco de dados SQL para armazenar informações sobre destinos, usuários, atividades e reservas, permitindo o gerenciamento eficiente do turismo
 
 **Tecnologias:**
 
 Java: Linguagem de programação principal.
+
 Mysql: Banco de dados para gerenciar informações de destinos, usuários, atividades e reservas.
+
 window builder: Biblioteca gráfica para a interface do usuário.
+
 Eclipse: Ambiente de desenvolvimento integrado utilizado.
 
 **Funcionalidades:**
 
  🔍**Exploração de Destinos e Eventos**: Descubra locais e atividades de ecoturismo em diversas regiões.
+ 
  ⭐**Avaliação de Experiências**: Avalie suas visitas e leia opiniões de outros usuários.
+ 
  🌱**Conscientização Ambiental**: Participe de uma comunidade engajada em práticas sustentáveis. 
  
 #
