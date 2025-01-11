@@ -7,19 +7,14 @@ Este repositório contém o código-fonte de um aplicativo simples em Java de ec
 **Tecnologias:**
 
 * **Java:** Linguagem de programação principal.
-
 * **Mysql:** Banco de dados para gerenciar informações de destinos, usuários, atividades e reservas.
-
 * **Window builder:** Biblioteca gráfica para a interface do usuário.
-
 * **Eclipse:** Ambiente de desenvolvimento integrado utilizado.
 
 **Funcionalidades:**
 
  * 🔍**Exploração de Destinos e Eventos**: Descubra locais e atividades de ecoturismo em diversas regiões.
- 
  * ⭐**Avaliação de Experiências**: Avalie suas visitas e leia opiniões de outros usuários.
- 
  * 🌱**Conscientização Ambiental**: Participe de uma comunidade engajada em práticas sustentáveis. 
  
 #
