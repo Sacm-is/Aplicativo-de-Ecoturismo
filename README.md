@@ -2,19 +2,17 @@
 Este repositório contém o código-fonte de um aplicativo simples em Java de ecoturismo. O aplicativo será uma plataforma interativa onde os usuários poderão descobrir lugares e eventos relacionados ao ecoturismo, avaliar suas experiências e contribuir para a conscientização ambiental. Por meio da pesquisa e das avaliações dos usuários, o aplicativo criará a visitação a locais que respeitam práticas seguras, promovendo a conservação do meio ambiente e o desenvolvimento de comunidades locais. O sistema utiliza um banco de dados SQL para armazenar informações sobre destinos, usuários, atividades e reservas, permitindo o gerenciamento eficiente do turismo
 
 
-Antivírus Acadêmico
-Um antivírus básico para aprendizado, desenvolvido em Java durante o curso de ADS
-
-Descrição:
+**Descrição:**
 
 Este projeto tem como objetivo demonstrar os conceitos básicos de desenvolvimento de um antivírus. Ele realiza uma varredura em um diretório específico, procurando por arquivos com nomes correspondentes a uma lista predefinida.
 
-Tecnologias:
+**Tecnologias:**
 
 Java: Linguagem de programação principal.
 Swing: Biblioteca gráfica para a interface do usuário.
 Eclipse: Ambiente de desenvolvimento integrado utilizado.
-Funcionalidades:
+
+**Funcionalidades:**
 
 Busca por nomes de arquivos: Verifique se o nome do arquivo corresponde a uma lista predefinida de nomes suspeitos.
 Interface gráfica: Exibe os resultados da varredura em uma tabela.
