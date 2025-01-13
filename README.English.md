@@ -1,31 +1,21 @@
-#Academic Antivirus
+**Ecotourism App 🌿**
 #
-A basic antivirus for learning purposes, developed in Java during the ADS course
-
 **Description:**
 
-This project aims to demonstrate the basic concepts of antivirus development. It scans a specific directory, searching for files with names matching a predefined list.
+This repository contains the source code of a simple ecotourism application developed in Java. The app serves as an interactive platform where users can discover places and events related to ecotourism, review their experiences, and contribute to environmental awareness. By leveraging user reviews and research, the app encourages visits to locations that adhere to safe practices, promoting environmental conservation and supporting local communities. The system uses an SQL database to manage information about destinations, users, activities, and bookings, ensuring efficient tourism management.
 
 **Technologies:**
 
-* **Java: Main programming language.
-* **Swing: GUI library for the user interface.
-* **Eclipse: Integrated development environment used.
-* 
-**Features:**
+* **Java:** Main programming language.
+*  ***MySQL:** Database for managing information about destinations, users, activities, and bookings.
+* **Window Builder:** GUI library for the user interface.
+* **Eclipse:** Integrated development environment used.
+Features:
 
-File name search: Checks if file names match a predefined list of suspicious names.
-Graphical interface: Displays scan results in a table.
+* **🔍 Explore Destinations and Events:** Discover ecotourism spots and activities in various regions.
+* **⭐ Experience Reviews:** Rate your visits and read opinions from other users.
+* **🌱 Environmental Awareness:** Join a community engaged in sustainable practices.
 
-**Limitations:**
-
-* **Basic detection: Performs a quick search for suspicious files in a specific directory.
-* **Fixed directory: The scan is performed in a predefined directory, limiting the software's flexibility.
-
-**What's missing?**
-
-Real virus detection: Currently, the antivirus only checks file names. Advanced techniques to detect real threats need to be implemented.
-More user-friendly interface: The current interface is basic. Additional features and improvements can enhance the user experience.
-Automatic updates: It would be great if the antivirus could update itself automatically with new malicious file lists.
-#
 **Team Members:**
+
+Alana Taborda - 942422932 Dominique Mariah Valter - 942415662 Emely Sampaio - 942422532 Pedro Henrique Bertolino de Brito - 942422760
