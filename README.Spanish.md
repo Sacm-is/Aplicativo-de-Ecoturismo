@@ -1,5 +1,9 @@
 # Aplicación de Ecoturismo 🌿
 
+<p align="center">
+    【<a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.English.md">English</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.md">Português</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.Spanish.md">Español</a>】
+</p>
+
 **Descripción:**
 
 Este repositorio contiene el código fuente de una aplicación simple de ecoturismo desarrollada en Java. La aplicación es una plataforma interactiva donde los usuarios pueden descubrir lugares y eventos relacionados con el ecoturismo, calificar sus experiencias y contribuir a la concienciación ambiental. A través de las reseñas de los usuarios y la investigación, la aplicación fomenta visitas a lugares que siguen prácticas seguras, promoviendo la conservación del medio ambiente y el desarrollo de las comunidades locales. El sistema utiliza una base de datos SQL para gestionar información sobre destinos, usuarios, actividades y reservas, garantizando una gestión eficiente del turismo.
