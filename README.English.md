@@ -7,10 +7,11 @@ This repository contains the source code of a simple ecotourism application deve
 **Technologies:**
 
 * **Java:** Main programming language.
-*  ***MySQL:** Database for managing information about destinations, users, activities, and bookings.
+* **MySQL:** Database for managing information about destinations, users, activities, and bookings.
 * **Window Builder:** GUI library for the user interface.
 * **Eclipse:** Integrated development environment used.
-Features:
+
+**Features:**
 
 * **🔍 Explore Destinations and Events:** Discover ecotourism spots and activities in various regions.
 * **⭐ Experience Reviews:** Rate your visits and read opinions from other users.
