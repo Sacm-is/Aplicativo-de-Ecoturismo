@@ -1,7 +1,7 @@
 # Aplicativo de Ecoturismo 🌿
 
 <p align="center">
-    【<a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.English.md">English</a> | <a href="../readme/README-slovak.md">Português</a> | <a href="../readme/README-spanish.md">Español</a>】
+    【<a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.English.md">English</a> | <a href="https://github.com/Sacm-is/Aplicativo-de-Ecoturismo/blob/main/README.md">Português</a> | <a href="../readme/README-spanish.md">Español</a>】
 </p>
 
 **Descrição:**
